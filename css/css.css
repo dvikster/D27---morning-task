@@ -1,0 +1,11 @@
+h1, h2{
+    font-size: 24px;
+}
+html, body,.wrapper{
+    height:100%;
+}
+.footer-bottom{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
